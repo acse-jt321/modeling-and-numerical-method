@@ -55,10 +55,14 @@ The module will be assessed through two pieces of coursework. The first coursewo
 |2021-12-01 9:00-12:00 Wed |TBC        |M. Piggott   |    |
 |2021-12-02 9:00-12:00 Thu |TBC                            |M. Piggott   |    |
 |2021-12-03 9:00-12:00 Fri |TBC      |M. Piggott   |  |
-|2021-12-06 9:00-12:00 Mon |TBC |M. Piggottl   |  |
-|2021-12-07 9:00-12:00 Tue |TBC           |            |            |
+|2021-12-06 9:00-12:00 Mon |TBC |M. Piggott   |  |
+|2021-12-07 9:00-12:00 Tue |TBC           |   M. Piggott     |            |
 |2021-12-08 9:00-12:00 Wed |TBC |M. Piggott   |  |
 
 ## Reading list
 
+There is no required text for this course. Possible textbooks for additional background are:
 
+* Introduction to Continuum Mechanics, W.M. Lai, D. Rubin, E. Krempl, 4th edition, Elsevier – available in electronic form through IC library
+
+* An Introduction to Continuum Mechanics, J.N. Reddy, 2nd edition,  Cambridge University Press, 2013
