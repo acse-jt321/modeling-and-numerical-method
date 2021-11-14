@@ -40,17 +40,17 @@ The module will be assessed through two pieces of coursework. The first coursewo
 
 ## Schedule
 
-|Date                      | Lecture                             |Instructor  |Moderator   |
-|--------------------------|-------------------------------------|------------|------------|
-|2021-11-15 9:00-12:00 Mon | Vector and Tensor Calculus                   |G. Collins   |J. Percival   |
-|2021-11-16 9:00-12:00 Tue | Stress Principles                   |G. Collins | F. Richards  |
-|2021-11-17 9:00-12:00 Wed | Kinematics and strain                        |G. Collins   |J. Percival |
-|2021-11-18 9:00-12:00 Thu | Rheology and Conservation                     |R. Nelson   |  |
-|2021-11-19 9:00-12:00 Fri | Dimensional Analysis           | S. Neethling           |            |
-|2021-11-22 9:00-12:00 Mon | Potential flow                  | S. Neethling |   |
-|2021-11-23 9:00-12:00 Tue | Navier Stokes      |S. Neethling   | |
-|2021-11-24 9:00-12:00 Wed | Nonlinear Rheology and Turbulence           |    S. Neethling     |            |
-|2021-11-29 9:00-12:00 Mon |Computational Fluid Dynamics                |S. Neethling |    |
+|Date                      | Lecture                                 |Instructor    |Moderator   |
+|--------------------------|-----------------------------------------|--------------|------------|
+|2021-11-15 9:00-12:00 Mon | Vector and Tensor Calculus              | G. Collins   |J. Percival |
+|2021-11-16 9:00-12:00 Tue | Stress Principles                       | G. Collins   |F. Richards |
+|2021-11-17 9:00-12:00 Wed | Kinematics and strain                   | G. Collins   |J. Percival |
+|2021-11-18 9:00-12:00 Thu | Rheology and Conservation               | R. Nelson    |            |
+|2021-11-19 9:00-12:00 Fri | Dimensional Analysis                    | S. Neethling |            |
+|2021-11-22 9:00-12:00 Mon | Potential Flow (Part A)                 | S. Neethling |            |
+|2021-11-23 9:00-12:00 Tue | Potential Flow (Part B)                 | S. Neethling |            |
+|2021-11-24 9:00-12:00 Wed | Newtonian Fluid Flow                    | S. Neethling |            |
+|2021-11-29 9:00-12:00 Mon | Non-Newtonian Fluid Flow and Turbulence | S. Neethling |            |
 |2021-11-30 9:00-12:00 Tue | TBC    |M. Piggott   |   |
 |2021-12-01 9:00-12:00 Wed |TBC        |M. Piggott   |    |
 |2021-12-02 9:00-12:00 Thu |TBC                            |M. Piggott   |    |
