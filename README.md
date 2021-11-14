@@ -36,7 +36,7 @@ Part 2 (week 3-4): Numerical methods to solve continuum mechanics problems: FD, 
 
 ## Assessment
 
-The module will be assessed through two pieces of coursework. The first coursework will be a Timed Remote Assessment on the morning of Friday 26th November 2021. The second coursework will be released on the Thursday of the fourth and final week of the course, for submission on Friday 10th December.  
+The module will be assessed through two pieces of coursework. The first coursework will be a Timed Remote Assessment time TBC. The second coursework will be released on the Thursday of the fourth and final week of the course, for submission on Friday 10th December.  
 
 ## Schedule
 
