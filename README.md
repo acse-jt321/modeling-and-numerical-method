@@ -50,14 +50,14 @@ The module will be assessed through two pieces of coursework. The first coursewo
 |2021-11-22 9:00-12:00 Mon | Potential Flow (Part A)                 | S. Neethling |            |
 |2021-11-23 9:00-12:00 Tue | Potential Flow (Part B)                 | S. Neethling |            |
 |2021-11-24 9:00-12:00 Wed | Newtonian Fluid Flow                    | S. Neethling |            |
-|2021-11-29 9:00-12:00 Mon | Non-Newtonian Fluid Flow and Turbulence | S. Neethling |            |
+|2021-11-25 9:00-12:00 Thu | Non-Newtonian Fluid Flow and Turbulence | S. Neethling |            |
 |2021-11-30 9:00-12:00 Tue | TBC    |M. Piggott   |   |
-|2021-12-01 9:00-12:00 Wed |TBC        |M. Piggott   |    |
-|2021-12-02 9:00-12:00 Thu |TBC                            |M. Piggott   |    |
-|2021-12-03 9:00-12:00 Fri |TBC      |M. Piggott   |  |
-|2021-12-06 9:00-12:00 Mon |TBC |M. Piggott   |  |
-|2021-12-07 9:00-12:00 Tue |TBC           |   M. Piggott     |            |
-|2021-12-08 9:00-12:00 Wed |TBC |M. Piggott   |  |
+|2021-12-01 9:00-12:00 Wed | TBC        |M. Piggott   |    |
+|2021-12-02 9:00-12:00 Thu | TBC                            |M. Piggott   |    |
+|2021-12-03 9:00-12:00 Fri | TBC      |M. Piggott   |  |
+|2021-12-06 9:00-12:00 Mon | TBC |M. Piggott   |  |
+|2021-12-07 9:00-12:00 Tue | TBC           |   M. Piggott     |            |
+|2021-12-08 9:00-12:00 Wed | TBC |M. Piggott   |  |
 
 ## Reading list
 
