@@ -36,28 +36,28 @@ Part 2 (week 3-4): Numerical methods to solve continuum mechanics problems: FD, 
 
 ## Assessment
 
-The module will be assessed through two pieces of coursework. The first coursework will be a Timed Remote Assessment on the morning of Friday 26th November 2021. The second coursework will be released on the Thursday of the fourth and final week of the course, for submission on Friday 10th December.  
+The module will be assessed through two pieces of coursework. The first coursework will be a Timed Remote Assessment time 9 am--12 pm on Monday 29th November. The second coursework will be released on the Thursday of the fourth and final week of the course, for submission on Friday 10th December.  
 
 ## Schedule
 
-|Date                      | Lecture                             |Instructor  |Moderator   |
-|--------------------------|-------------------------------------|------------|------------|
-|2021-11-15 9:00-12:00 Mon | Vector and Tensor Calculus                   |G. Collins   |J. Percival   |
-|2021-11-16 9:00-12:00 Tue | Stress Principles                   |G. Collins | F. Richards  |
-|2021-11-17 9:00-12:00 Wed | Kinematics and strain                        |G. Collins   |J. Percival |
-|2021-11-18 9:00-12:00 Thu | Rheology and Conservation                     |R. Nelson   |  |
-|2021-11-19 9:00-12:00 Fri | Dimensional Analysis           | S. Neethling           |            |
-|2021-11-22 9:00-12:00 Mon | Potential flow                  | S. Neethling |   |
-|2021-11-23 9:00-12:00 Tue | Navier Stokes      |S. Neethling   | |
-|2021-11-24 9:00-12:00 Wed | Nonlinear Rheology and Turbulence           |    S. Neethling     |            |
-|2021-11-29 9:00-12:00 Mon |Computational Fluid Dynamics                |S. Neethling |    |
-|2021-11-30 9:00-12:00 Tue | TBC    |M. Piggott   |   |
-|2021-12-01 9:00-12:00 Wed |TBC        |M. Piggott   |    |
-|2021-12-02 9:00-12:00 Thu |TBC                            |M. Piggott   |    |
-|2021-12-03 9:00-12:00 Fri |TBC      |M. Piggott   |  |
-|2021-12-06 9:00-12:00 Mon |TBC |M. Piggott   |  |
-|2021-12-07 9:00-12:00 Tue |TBC           |   M. Piggott     |            |
-|2021-12-08 9:00-12:00 Wed |TBC |M. Piggott   |  |
+|Date                      | Lecture                                 |Instructor    |Moderator   |
+|--------------------------|-----------------------------------------|--------------|------------|
+|2021-11-15 9:00-12:00 Mon | Vector and Tensor Calculus              | G. Collins   |J. Percival |
+|2021-11-16 9:00-12:00 Tue | Stress Principles                       | G. Collins   |F. Richards |
+|2021-11-17 9:00-12:00 Wed | Kinematics and strain                   | G. Collins   |J. Percival |
+|2021-11-18 9:00-12:00 Thu | Rheology and Conservation               | R. Nelson    |            |
+|2021-11-19 9:00-12:00 Fri | Dimensional Analysis                    | S. Neethling |            |
+|2021-11-22 9:00-12:00 Mon | Potential Flow (Part A)                 | S. Neethling |            |
+|2021-11-23 9:00-12:00 Tue | Potential Flow (Part B)                 | S. Neethling |            |
+|2021-11-24 9:00-12:00 Wed | Newtonian Fluid Flow                    | S. Neethling |            |
+|2021-11-25 9:00-12:00 Thu | Non-Newtonian Fluid Flow and Turbulence | S. Neethling |            |
+|2021-11-30 9:00-12:00 Tue | Interpolation and Quadrature 2          | M. Piggott   |            |
+|2021-12-01 9:00-12:00 Wed | ODEs 2                                  | M. Piggott   |            |
+|2021-12-02 9:00-12:00 Thu | PDEs and the Finite Difference Method 2 | M. Piggott   |            |
+|2021-12-03 9:00-12:00 Fri | PDEs and the Finite Difference Method 3 | M. Piggott   |            |
+|2021-12-06 9:00-12:00 Mon | Finite Volume Method                    | M. Piggott   |            |
+|2021-12-07 9:00-12:00 Tue | Finite Element Method 1                 | M. Piggott   |            |
+|2021-12-08 9:00-12:00 Wed | Finite element method 2                 | M. Piggott   |            |
 
 ## Reading list
 
